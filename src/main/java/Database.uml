@@ -3,10 +3,10 @@
   <ID>DATABASE</ID>
   <OriginalElement>1316077f-9867-4f34-88a0-8bab28a2194d</OriginalElement>
   <nodes>
-    <node x="126.0" y="-23.0">1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.cars</node>
+    <node x="377.5" y="-33.0">1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.cars</node>
     <node x="0.0" y="33.0">1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.masters</node>
-    <node x="279.0" y="11.0">1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.services</node>
-    <node x="131.5" y="195.0">1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.works</node>
+    <node x="811.0" y="35.0">1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.services</node>
+    <node x="383.0" y="545.0">1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.works</node>
   </nodes>
   <notes />
   <edges>
@@ -16,18 +16,18 @@
     </edge>
     <edge source="1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.works" target="1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.masters" relationship="REFERENCES">
       <point x="-40.66666666666666" y="-72.5" />
-      <point x="151.83333333333334" y="170.0" />
-      <point x="53.0" y="170.0" />
+      <point x="53.0" y="545.0" />
       <point x="0.0" y="39.5" />
     </edge>
     <edge source="1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.works" target="1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.services" relationship="REFERENCES">
       <point x="40.66666666666666" y="-72.5" />
-      <point x="233.16666666666666" y="170.0" />
-      <point x="375.5" y="170.0" />
+      <point x="920.6666666666666" y="545.0" />
+      <point x="920.6666666666666" y="172.0" />
+      <point x="907.5" y="172.0" />
       <point x="0.0" y="61.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="637.5" y="372.5" />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="638.0" y="373.0" />
   <SelectedNodes>
     <node>1316077f-9867-4f34-88a0-8bab28a2194d.TABLE:postgres.public.cars</node>
   </SelectedNodes>
